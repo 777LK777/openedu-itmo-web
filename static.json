@@ -1,6 +1,8 @@
 {
   "headers": {
-    "X-Author": "leonidkonoplin",
-    "Access-Control-Allow-Origin": "*"
+    "/*": {
+      "X-Author": "leonidkonoplin",
+      "Access-Control-Allow-Origin": "*"
+    }
   }
 }
