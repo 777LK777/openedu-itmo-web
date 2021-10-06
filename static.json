@@ -1,13 +1,7 @@
 {
   "headers": {
     "/login/": {
-      "Content-Type": "text/plain;charset=UTF-8",
-      "X-Author": "leonidkonoplin",
-      "Access-Control-Allow-Origin": "*"
-    },
-    "/sample/": {
-      "Content-Type": "text/plain;charset=UTF-8",
-      "X-Author": "leonidkonoplin",
+      "Content-Type": "text/plain; charset=UTF-8",
       "Access-Control-Allow-Origin": "*"
     }
   }
