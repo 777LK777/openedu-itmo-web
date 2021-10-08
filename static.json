@@ -3,17 +3,17 @@
     "/*": {
       "Content-Type": "text/html; charset=UTF-8",
       "Access-Control-Allow-Origin": "*",
-      "X-Author": "leonidkonoplin"
+      "X-Reply": "leonidkonoplin"
     },
     "/login/*": {
       "Content-Type": "text/plain; charset=UTF-8",
       "Access-Control-Allow-Origin": "*",
-      "X-Author": "leonidkonoplin"
+      "X-Reply": "leonidkonoplin"
     },
     "/sample/*": {
       "Content-Type": "text/plain; charset=UTF-8",
       "Access-Control-Allow-Origin": "*",
-      "X-Author": "leonidkonoplin"
+      "X-Reply": "leonidkonoplin"
     }
   }
 }
